@@ -6,13 +6,103 @@ ignore:
     - '@react-native-community/cli > metro > yargs > os-locale > mem':
         reason: None given
         expires: '2019-06-28T15:00:57.613Z'
+      '@react-native-community/cli > metro > metro-inspector-proxy > yargs > os-locale > mem':
+        reason: ''
+        expires: '2019-06-28T15:28:01.268Z'
     - '@react-native-community/cli > metro > metro-inspector-proxy > yargs > os-locale > mem':
         reason: None given
         expires: '2019-06-28T15:00:57.613Z'
+      '@react-native-community/cli > metro-config > metro > yargs > os-locale > mem':
+        reason: ''
+        expires: '2019-06-28T15:28:01.268Z'
     - '@react-native-community/cli > metro-config > metro > yargs > os-locale > mem':
         reason: None given
         expires: '2019-06-28T15:00:57.613Z'
+      '@react-native-community/cli > metro-config > metro > metro-inspector-proxy > yargs > os-locale > mem':
+        reason: ''
+        expires: '2019-06-28T15:28:01.268Z'
     - '@react-native-community/cli > metro-config > metro > metro-inspector-proxy > yargs > os-locale > mem':
         reason: None given
         expires: '2019-06-28T15:00:57.613Z'
+  SNYK-JS-MERGE-72553:
+    - '@react-native-community/cli > metro > metro-config > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.267Z'
+    - '@react-native-community/cli > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-cache > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro-cache > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > metro-cache > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-cache > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-config > metro-cache > metro-core > jest-haste-map > sane > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro-cache > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-config > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > metro > metro-cache > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-config > metro-cache > metro-core > jest-haste-map > sane > watch > exec-sh > merge':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+  SNYK-JS-JSYAML-173999:
+    - '@react-native-community/cli > metro-config > cosmiconfig > js-yaml':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro > metro-config > cosmiconfig > js-yaml':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+  SNYK-JS-JSYAML-174129:
+    - '@react-native-community/cli > metro > metro-config > cosmiconfig > js-yaml':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
+    - '@react-native-community/cli > metro-config > cosmiconfig > js-yaml':
+        reason: None given
+        expires: '2019-06-28T15:28:01.268Z'
 patch: {}
