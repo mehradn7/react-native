@@ -60,7 +60,7 @@
   ],
   "scripts": {
     "start": "react-native start",
-    "test": "jest",
+    "test": "snyk test",
     "test-ci": "jest --maxWorkers=2 --ci --reporters=\"default\" --reporters=\"jest-junit\"",
     "flow": "flow",
     "flow-check-ios": "flow check",
