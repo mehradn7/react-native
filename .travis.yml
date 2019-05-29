@@ -2,5 +2,5 @@ language: node_js
 install:
         - npm install -g snyk
 script:
-        - snyk auth
+        - snyk auth $SNYK_TOKEN
         - snyk test
