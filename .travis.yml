@@ -3,4 +3,5 @@ install:
         - npm install -g snyk
 script:
         - snyk auth $SNYK_TOKEN
+        - snyk protect
         - npm test
