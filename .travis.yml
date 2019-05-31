@@ -5,3 +5,4 @@ script:
         - npm install
         - snyk auth $SNYK_TOKEN
         - npm test
+        - snyk protect
