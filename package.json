@@ -80,7 +80,9 @@
     "test-android-unit": "yarn run docker-build-android && yarn run test-android-run-unit",
     "test-android-e2e": "yarn run docker-build-android && yarn run test-android-run-e2e",
     "build-ios-e2e": "detox build -c ios.sim.release",
-    "test-ios-e2e": "detox test -c ios.sim.release RNTester/e2e"
+    "test-ios-e2e": "detox test -c ios.sim.release RNTester/e2e",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "peerDependencies": {
     "react": "16.8.3"
@@ -109,7 +111,8 @@
     "prop-types": "^15.7.2",
     "react-devtools-core": "^3.6.0",
     "regenerator-runtime": "^0.13.2",
-    "stacktrace-parser": "^0.1.3"
+    "stacktrace-parser": "^0.1.3",
+    "snyk": "^1.192.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
@@ -164,5 +167,6 @@
         "name": "iPhone 6s"
       }
     }
-  }
+  },
+  "snyk": true
 }
