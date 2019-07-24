@@ -8,7 +8,13 @@
   },
   "dependencies": {
     "jscodeshift": "^0.6.2",
-    "nullthrows": "^1.1.0"
+    "nullthrows": "^1.1.0",
+    "snyk": "^1.189.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
