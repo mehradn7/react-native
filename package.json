@@ -97,7 +97,7 @@
     "create-react-class": "^15.6.3",
     "escape-string-regexp": "^1.0.5",
     "event-target-shim": "^5.0.1",
-    "fbjs": "^1.0.0",
+    "fbjs": "^2.0.0",
     "fbjs-scripts": "^1.1.0",
     "invariant": "^2.2.4",
     "jsc-android": "^236355.1.1",
