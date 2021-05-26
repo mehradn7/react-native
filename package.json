@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
-    "@react-native-community/cli": "2.0.0",
+    "@react-native-community/cli": "4.9.0",
     "@react-native-community/cli-platform-ios": "2.0.0-alpha.15",
     "@react-native-community/cli-platform-android": "2.0.0-alpha.15",
     "abort-controller": "^3.0.0",
@@ -107,7 +107,7 @@
     "pretty-format": "^24.7.0",
     "promise": "^7.1.1",
     "prop-types": "^15.7.2",
-    "react-devtools-core": "^3.6.0",
+    "react-devtools-core": "^4.0.0",
     "regenerator-runtime": "^0.13.2",
     "stacktrace-parser": "^0.1.3"
   },
